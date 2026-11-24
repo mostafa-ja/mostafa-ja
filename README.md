@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mostafa Jafari
 
-<!--
-**mostafa-ja/mostafa-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** — I build practical LLM systems: RAG pipelines, AI agents, and AI automation that solve real operational problems.
 
-Here are some ideas to get you started:
+My background combines research and applied work: an M.Sc. in Software Engineering from Shahid Beheshti University (GPA 19/20, ranked 1st in my cohort), published research in Elsevier's *Computers and Electrical Engineering* (2026), and freelance AI and automation consulting for real clients since May 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently building
+
+**TenderYar** — an intelligent tender platform for Iran's Setad system. It monitors tenders automatically and builds a per-tender RAG over each tender's documents, producing summaries and document question-answering — the full pipeline from tender discovery to bid preparation. A public demo of the monitoring system is pinned below.
+
+## ⭐ Selected work
+
+| Project | What it shows |
+|---|---|
+| [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
+| [sigma-binary](https://github.com/mostafa-ja/sigma-binary) | Code for my Elsevier paper: σ-binary, an adversarial attack for ML-based malware detectors, with a 94.6% success rate against the strongest published defence |
+| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | Public demo of a production client system: automated Setad tender monitoring with a 99.2%-accurate AI OCR captcha solver and Telegram alerts |
+| [Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection) | Deep-learning anomaly detection over system logs |
+| [contextAware](https://github.com/mostafa-ja/contextAware) | A context-aware recommender engine built as a properly packaged, unit-tested Python project |
+| [email-assistant-demo](https://github.com/mostafa-ja/email-assistant-demo) | LLM-powered email triage and assistance, built for a real client workflow |
+
+## 📄 Research
+
+- **"Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems"** — *Computers and Electrical Engineering* (Elsevier), February 2026
+- AI Research Assistant, Shahid Beheshti University (2023–2025) · ML Researcher, CHABOKFA (2024)
+
+## 🛠 Core toolkit
+
+- **LLM systems:** RAG, AI agents, LangChain, LangGraph, Hugging Face
+- **Machine learning:** PyTorch, deep learning, adversarial ML, anomaly detection
+- **Applied engineering:** Python, OCR pipelines, data extraction and monitoring automation
+- **Currently deepening:** FastAPI, Docker, and n8n — through TenderYar, my current build
+
+## 🤝 Open to
+
+Junior and mid-level roles in machine learning, AI automation, and data science — in person in Tehran or Tabriz, remote elsewhere.
+
+📫 mostafa.jaafari@gmail.com · 𝕏 [@Mostafa_Jf](https://x.com/Mostafa_Jf)
