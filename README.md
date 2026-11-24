@@ -6,7 +6,9 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 
 ## 🔭 Currently building
 
-**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar itself is a closed, proprietary system and is not open source. The public demo pinned below is an early, simplified sample of one part of the work — a rough sketch of the idea, not the product itself.
+**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar is a closed, proprietary system and is not open source. The demo pinned below is a standalone simulation I built to illustrate the general concept — it is not part of the real system and shares nothing with it beyond the idea.
+
+**Why isn't the code here?** TenderYar was built for a client and works on confidential procurement material, so the system itself is closed — as real client software usually is. What I can show publicly is the concept simulation pinned below. In an interview I'm glad to walk through what the system does, the problems it solves, and my role in building it — and the client can confirm the work.
 
 ## ⭐ Selected work
 
@@ -14,10 +16,10 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 |---|---|
 | [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
 | [sigma-binary](https://github.com/mostafa-ja/sigma-binary) | Code for my Elsevier paper: σ-binary, an adversarial attack for ML-based malware detectors, with a 94.6% success rate against the strongest published defence |
-| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | An early, simplified sample of my tender-monitoring work — the raw first sketch, shared to show the direction; the production system it grew into is closed and considerably more advanced |
+| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | A standalone front-end simulation of the tender-monitoring concept, built with sample data to illustrate the idea — separate from the closed production work |
 | [Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection) | Deep-learning anomaly detection over system logs |
 | [contextAware](https://github.com/mostafa-ja/contextAware) | A context-aware recommender engine built as a properly packaged, unit-tested Python project |
-| [email-assistant-demo](https://github.com/mostafa-ja/email-assistant-demo) | LLM-powered email triage and assistance, built for a real client workflow |
+| [email-assistant-demo](https://github.com/mostafa-ja/email-assistant-demo) | A standalone front-end simulation of an LLM email-assistant concept, built with sample data to illustrate the idea |
 
 ## 📄 Research
 
@@ -34,5 +36,3 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 ## 🤝 Open to
 
 Junior and mid-level roles in machine learning, AI automation, and data science — in person in Tehran or Tabriz, remote elsewhere.
-
-📫 mostafa.jaafari@gmail.com · 𝕏 [@Mostafa_Jf](https://x.com/Mostafa_Jf)
