@@ -6,7 +6,7 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 
 ## 🔭 Currently building
 
-**TenderYar** — an intelligent tender platform for Iran's Setad system. It monitors tenders automatically and builds a per-tender RAG over each tender's documents, producing summaries and document question-answering — the full pipeline from tender discovery to bid preparation. A public demo of the monitoring system is pinned below.
+**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar itself is a closed, proprietary system and is not open source. The public demo pinned below is an early, simplified sample of one part of the work — a rough sketch of the idea, not the product itself.
 
 ## ⭐ Selected work
 
@@ -14,7 +14,7 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 |---|---|
 | [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
 | [sigma-binary](https://github.com/mostafa-ja/sigma-binary) | Code for my Elsevier paper: σ-binary, an adversarial attack for ML-based malware detectors, with a 94.6% success rate against the strongest published defence |
-| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | Public demo of a production client system: automated Setad tender monitoring with a 99.2%-accurate AI OCR captcha solver and Telegram alerts |
+| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | An early, simplified sample of my tender-monitoring work — the raw first sketch, shared to show the direction; the production system it grew into is closed and considerably more advanced |
 | [Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection) | Deep-learning anomaly detection over system logs |
 | [contextAware](https://github.com/mostafa-ja/contextAware) | A context-aware recommender engine built as a properly packaged, unit-tested Python project |
 | [email-assistant-demo](https://github.com/mostafa-ja/email-assistant-demo) | LLM-powered email triage and assistance, built for a real client workflow |
