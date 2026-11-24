@@ -35,4 +35,4 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 
 ## 🤝 Open to
 
-Junior and mid-level roles in machine learning, AI automation, and data science — in person in Tehran or Tabriz, remote elsewhere.
+Mid-level roles in machine learning, AI automation, and data science — in person in Tehran or Tabriz, remote elsewhere.
