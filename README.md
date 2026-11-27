@@ -1,30 +1,34 @@
-# Mostafa Jafari
+## Mostafa Jafari
 
-**AI Engineer** — I build practical LLM systems: RAG pipelines, AI agents, and AI automation that solve real operational problems.
+**AI/ML researcher** — my work centres on adversarial robustness and the security of machine learning: how models fail under attack, and how to measure that honestly.
 
-My background combines research and applied work: an M.Sc. in Software Engineering from Shahid Beheshti University (GPA 19/20, ranked 1st in my cohort), published research in Elsevier's *Computers and Electrical Engineering* (2026), and freelance AI and automation consulting for real clients since May 2025.
+My background combines research and applied work: an M.Sc. in Software Engineering from Shahid Beheshti University (GPA 19/20), published research in Elsevier's *Computers and Electrical Engineering* (2026), and freelance AI and automation consulting for real clients since May 2025.
 
-## 🔭 Currently building
+**Currently:** I am applying for fully funded PhD positions for **Fall 2027** in adversarial robustness, ML security, and LLM security — and building TenderYar, described below.
 
-**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar is a closed, proprietary system and is not open source. The demo pinned below is a standalone simulation I built to illustrate the general concept — it is not part of the real system and shares nothing with it beyond the idea.
+## 📄 Research
 
-**Why isn't the code here?** TenderYar was built for a client and works on confidential procurement material, so the system itself is closed — as real client software usually is. What I can show publicly is the concept simulation pinned below. In an interview I'm glad to walk through what the system does, the problems it solves, and my role in building it — and the client can confirm the work.
+- **"Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems"** — *Computers and Electrical Engineering* (Elsevier), February 2026. The paper presents σ-binary, an adversarial attack on ML-based malware detectors, with a 94.6% success rate against the strongest published defence. Code: [sigma-binary](https://github.com/mostafa-ja/sigma-binary)
+- **Follow-up research** — [Adversarial-LLM-Attacks](https://github.com/mostafa-ja/Adversarial-LLM-Attacks) takes σ-binary into token space: adversarial suffix attacks on aligned LLMs, optimising all suffix positions jointly instead of one greedy swap at a time. Preliminary results, reproducible end to end on a free Colab GPU; unfinished and unpublished.
+- AI Research Assistant, Shahid Beheshti University (2023–2025) · ML Researcher, CHABOKFA (2024)
+- **Research interests:** adversarial robustness · LLM and agent security · ML for cybersecurity · interpretability for security
 
 ## ⭐ Selected work
 
 | Project | What it shows |
-|---|---|
-| [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
+| --- | --- |
 | [sigma-binary](https://github.com/mostafa-ja/sigma-binary) | Code for my Elsevier paper: σ-binary, an adversarial attack for ML-based malware detectors, with a 94.6% success rate against the strongest published defence |
-| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | A standalone front-end simulation of the tender-monitoring concept, built with sample data to illustrate the idea — separate from the closed production work |
+| [Adversarial-LLM-Attacks](https://github.com/mostafa-ja/Adversarial-LLM-Attacks) | σ-binary transferred to LLMs: adversarial suffix attacks on aligned models, with an executed, reproducible notebook |
+| [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
 | [Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection) | Deep-learning anomaly detection over system logs |
+| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | A standalone front-end simulation of the tender-monitoring concept, built with sample data to illustrate the idea — separate from the closed production work |
 | [contextAware](https://github.com/mostafa-ja/contextAware) | A context-aware recommender engine built as a properly packaged, unit-tested Python project |
-| [email-assistant-demo](https://github.com/mostafa-ja/email-assistant-demo) | A standalone front-end simulation of an LLM email-assistant concept, built with sample data to illustrate the idea |
 
-## 📄 Research
+## 🔭 Currently building
 
-- **"Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems"** — *Computers and Electrical Engineering* (Elsevier), February 2026
-- AI Research Assistant, Shahid Beheshti University (2023–2025) · ML Researcher, CHABOKFA (2024)
+**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar is a closed, proprietary system and is not open source. The demo in Selected work above is a standalone simulation I built to illustrate the general concept — it is not part of the real system and shares nothing with it beyond the idea.
+
+**Why isn't the code here?** TenderYar was built for a client and works on confidential procurement material, so the system itself is closed — as real client software usually is. What I can show publicly is the concept simulation. In an interview I'm glad to walk through what the system does, the problems it solves, and my role in building it — and the client can confirm the work.
 
 ## 🛠 Core toolkit
 
@@ -35,4 +39,5 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 
 ## 🤝 Open to
 
-Mid-level roles in machine learning, AI automation, and data science — in person in Tehran or Tabriz, remote elsewhere.
+- **PhD:** fully funded positions for Fall 2027 in adversarial robustness, ML security, and LLM security
+- **Work:** mid-level roles in machine learning, AI automation, and data science — in person in Tehran or Tabriz, remote elsewhere
