@@ -32,10 +32,10 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 
 ## 🛠 Core toolkit
 
-- **LLM systems:** RAG, AI agents, LangChain, LangGraph, Hugging Face
-- **Machine learning:** PyTorch, deep learning, adversarial ML, anomaly detection
-- **Applied engineering:** Python, OCR pipelines, data extraction and monitoring automation
-- **Currently deepening:** FastAPI, Docker, and n8n — through TenderYar, my current build
+- **ML security:** adversarial machine learning, robustness evaluation, malware detection, Android static analysis
+- **Machine learning:** PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, Hugging Face, NLP, model evaluation
+- **LLMs & agents:** RAG, LangChain, LangGraph, LlamaIndex, embeddings, vector databases, multi-agent systems
+- **Research engineering:** Python, pandas, NumPy, SQL, MATLAB, LaTeX, Git, Linux, Docker, reproducible experiment pipelines
 
 ## 🤝 Open to
 
