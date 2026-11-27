@@ -18,15 +18,15 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 | Project | What it shows |
 | --- | --- |
 | [sigma-binary](https://github.com/mostafa-ja/sigma-binary) | Code for my Elsevier paper: σ-binary, an adversarial attack for ML-based malware detectors, with a 94.6% success rate against the strongest published defence |
+| [pre-thesis-adversarial-ml](https://github.com/mostafa-ja/pre-thesis-adversarial-ml) | The work before the paper: the notebooks behind my thesis — data, detectors, attacks, defences, and the evaluation that produced σ-binary |
 | [Adversarial-LLM-Attacks](https://github.com/mostafa-ja/Adversarial-LLM-Attacks) | σ-binary transferred to LLMs: adversarial suffix attacks on aligned models, with an executed, reproducible notebook |
 | [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
 | [Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection) | Deep-learning anomaly detection over system logs |
-| [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | A standalone front-end simulation of the tender-monitoring concept, built with sample data to illustrate the idea — separate from the closed production work |
-| [Stack-Overflow-Answer-Prediction](https://github.com/mostafa-ja/Stack-Overflow-Answer-Prediction) | Predicting which Stack Overflow answers get accepted — gradient-boosted models (XGBoost, LightGBM) in a tested, CI-checked pipeline |
+| [Transformers](https://github.com/mostafa-ja/Transformers) | Transformer architectures studied end to end: a from-scratch implementation, Vision Transformers, fine-tuning, and self-supervised federated learning |
 
 ## 🔭 Currently building
 
-**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar is a closed, proprietary system and is not open source. The demo in Selected work above is a standalone simulation I built to illustrate the general concept — it is not part of the real system and shares nothing with it beyond the idea.
+**TenderYar** — an AI platform I'm building for public-procurement tenders in Iran: it turns large, document-heavy tender packages into clear summaries and answers, helping a team decide faster and prepare stronger bids. TenderYar is a closed, proprietary system and is not open source. A standalone simulation of the concept ([setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo)) sits in my repositories — it is not part of the real system and shares nothing with it beyond the idea.
 
 **Why isn't the code here?** TenderYar was built for a client and works on confidential procurement material, so the system itself is closed — as real client software usually is. What I can show publicly is the concept simulation. In an interview I'm glad to walk through what the system does, the problems it solves, and my role in building it — and the client can confirm the work.
 
