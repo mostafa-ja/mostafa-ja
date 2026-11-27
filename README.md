@@ -22,7 +22,7 @@ My background combines research and applied work: an M.Sc. in Software Engineeri
 | [LLM_from_scratch](https://github.com/mostafa-ja/LLM_from_scratch) | A GPT-2-style language model and its tokenizer, implemented from scratch in PyTorch — the fundamentals, not just the APIs |
 | [Log_Anomaly_Detection](https://github.com/mostafa-ja/Log_Anomaly_Detection) | Deep-learning anomaly detection over system logs |
 | [setad-monitor-demo](https://github.com/mostafa-ja/setad-monitor-demo) | A standalone front-end simulation of the tender-monitoring concept, built with sample data to illustrate the idea — separate from the closed production work |
-| [contextAware](https://github.com/mostafa-ja/contextAware) | A context-aware recommender engine built as a properly packaged, unit-tested Python project |
+| [Stack-Overflow-Answer-Prediction](https://github.com/mostafa-ja/Stack-Overflow-Answer-Prediction) | Predicting which Stack Overflow answers get accepted — gradient-boosted models (XGBoost, LightGBM) in a tested, CI-checked pipeline |
 
 ## 🔭 Currently building
 
